@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
+I lost access to the MimsySith GitHub account, which was mine, when I lost access to the Gmail account it was linked to. Good lesson there - don't rely on Google to give you access to things that matter! I forked it over to this repo in my current account which is NOT linked to Google. I am going to make stylistic changes, and have already changed cards from a row to a column in the entry page because ngfor was not displaying all the cards when they were rendered as a row.
+
 It is a basic card game of a type called a "pairs game", which tests memory by making you remember where cards are located on a grid. Each card appears twice, as a "pair", and you have to match them. Full instructions are on the deployed Single Page Application.
 
 All external resources used on this page (sounds, pictures) are fully open source and on a license which allows use in any non-commercial or commercial situation, so no copyright has been breached. The sources and, where applicable, creators will be credited below.
